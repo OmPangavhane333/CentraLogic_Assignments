@@ -1,0 +1,15 @@
+C:\Users\ompan\source\repos\AssignmentNo.01\bin\Debug\net7.0\AssignmentNo.01.exe
+C:\Users\ompan\source\repos\AssignmentNo.01\bin\Debug\net7.0\AssignmentNo.01.deps.json
+C:\Users\ompan\source\repos\AssignmentNo.01\bin\Debug\net7.0\AssignmentNo.01.runtimeconfig.json
+C:\Users\ompan\source\repos\AssignmentNo.01\bin\Debug\net7.0\AssignmentNo.01.dll
+C:\Users\ompan\source\repos\AssignmentNo.01\bin\Debug\net7.0\AssignmentNo.01.pdb
+C:\Users\ompan\source\repos\AssignmentNo.01\obj\Debug\net7.0\AssignmentNo.01.csproj.AssemblyReference.cache
+C:\Users\ompan\source\repos\AssignmentNo.01\obj\Debug\net7.0\AssignmentNo.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ompan\source\repos\AssignmentNo.01\obj\Debug\net7.0\AssignmentNo.01.AssemblyInfoInputs.cache
+C:\Users\ompan\source\repos\AssignmentNo.01\obj\Debug\net7.0\AssignmentNo.01.AssemblyInfo.cs
+C:\Users\ompan\source\repos\AssignmentNo.01\obj\Debug\net7.0\AssignmentNo.01.csproj.CoreCompileInputs.cache
+C:\Users\ompan\source\repos\AssignmentNo.01\obj\Debug\net7.0\AssignmentNo.01.dll
+C:\Users\ompan\source\repos\AssignmentNo.01\obj\Debug\net7.0\refint\AssignmentNo.01.dll
+C:\Users\ompan\source\repos\AssignmentNo.01\obj\Debug\net7.0\AssignmentNo.01.pdb
+C:\Users\ompan\source\repos\AssignmentNo.01\obj\Debug\net7.0\AssignmentNo.01.genruntimeconfig.cache
+C:\Users\ompan\source\repos\AssignmentNo.01\obj\Debug\net7.0\ref\AssignmentNo.01.dll
