@@ -1,0 +1,15 @@
+C:\Users\ompan\source\repos\que3\bin\Debug\net7.0\que3.exe
+C:\Users\ompan\source\repos\que3\bin\Debug\net7.0\que3.deps.json
+C:\Users\ompan\source\repos\que3\bin\Debug\net7.0\que3.runtimeconfig.json
+C:\Users\ompan\source\repos\que3\bin\Debug\net7.0\que3.dll
+C:\Users\ompan\source\repos\que3\bin\Debug\net7.0\que3.pdb
+C:\Users\ompan\source\repos\que3\obj\Debug\net7.0\que3.csproj.AssemblyReference.cache
+C:\Users\ompan\source\repos\que3\obj\Debug\net7.0\que3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ompan\source\repos\que3\obj\Debug\net7.0\que3.AssemblyInfoInputs.cache
+C:\Users\ompan\source\repos\que3\obj\Debug\net7.0\que3.AssemblyInfo.cs
+C:\Users\ompan\source\repos\que3\obj\Debug\net7.0\que3.csproj.CoreCompileInputs.cache
+C:\Users\ompan\source\repos\que3\obj\Debug\net7.0\que3.dll
+C:\Users\ompan\source\repos\que3\obj\Debug\net7.0\refint\que3.dll
+C:\Users\ompan\source\repos\que3\obj\Debug\net7.0\que3.pdb
+C:\Users\ompan\source\repos\que3\obj\Debug\net7.0\que3.genruntimeconfig.cache
+C:\Users\ompan\source\repos\que3\obj\Debug\net7.0\ref\que3.dll

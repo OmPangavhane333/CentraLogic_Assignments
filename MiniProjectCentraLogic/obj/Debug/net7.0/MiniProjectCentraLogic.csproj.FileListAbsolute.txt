@@ -1,0 +1,15 @@
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\obj\Debug\net7.0\MiniProjectCentraLogic.csproj.AssemblyReference.cache
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\obj\Debug\net7.0\MiniProjectCentraLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\obj\Debug\net7.0\MiniProjectCentraLogic.AssemblyInfoInputs.cache
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\obj\Debug\net7.0\MiniProjectCentraLogic.AssemblyInfo.cs
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\obj\Debug\net7.0\MiniProjectCentraLogic.csproj.CoreCompileInputs.cache
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\bin\Debug\net7.0\MiniProjectCentraLogic.exe
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\bin\Debug\net7.0\MiniProjectCentraLogic.deps.json
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\bin\Debug\net7.0\MiniProjectCentraLogic.runtimeconfig.json
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\bin\Debug\net7.0\MiniProjectCentraLogic.dll
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\bin\Debug\net7.0\MiniProjectCentraLogic.pdb
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\obj\Debug\net7.0\MiniProjectCentraLogic.dll
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\obj\Debug\net7.0\refint\MiniProjectCentraLogic.dll
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\obj\Debug\net7.0\MiniProjectCentraLogic.pdb
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\obj\Debug\net7.0\MiniProjectCentraLogic.genruntimeconfig.cache
+C:\Users\ompan\source\repos\MiniProjectCentraLogic\obj\Debug\net7.0\ref\MiniProjectCentraLogic.dll
