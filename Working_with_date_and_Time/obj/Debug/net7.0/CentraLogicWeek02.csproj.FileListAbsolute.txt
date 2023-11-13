@@ -1,0 +1,15 @@
+C:\Users\ompan\source\repos\CentraLogicWeek02\bin\Debug\net7.0\CentraLogicWeek02.exe
+C:\Users\ompan\source\repos\CentraLogicWeek02\bin\Debug\net7.0\CentraLogicWeek02.deps.json
+C:\Users\ompan\source\repos\CentraLogicWeek02\bin\Debug\net7.0\CentraLogicWeek02.runtimeconfig.json
+C:\Users\ompan\source\repos\CentraLogicWeek02\bin\Debug\net7.0\CentraLogicWeek02.dll
+C:\Users\ompan\source\repos\CentraLogicWeek02\bin\Debug\net7.0\CentraLogicWeek02.pdb
+C:\Users\ompan\source\repos\CentraLogicWeek02\obj\Debug\net7.0\CentraLogicWeek02.csproj.AssemblyReference.cache
+C:\Users\ompan\source\repos\CentraLogicWeek02\obj\Debug\net7.0\CentraLogicWeek02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ompan\source\repos\CentraLogicWeek02\obj\Debug\net7.0\CentraLogicWeek02.AssemblyInfoInputs.cache
+C:\Users\ompan\source\repos\CentraLogicWeek02\obj\Debug\net7.0\CentraLogicWeek02.AssemblyInfo.cs
+C:\Users\ompan\source\repos\CentraLogicWeek02\obj\Debug\net7.0\CentraLogicWeek02.csproj.CoreCompileInputs.cache
+C:\Users\ompan\source\repos\CentraLogicWeek02\obj\Debug\net7.0\CentraLogicWeek02.dll
+C:\Users\ompan\source\repos\CentraLogicWeek02\obj\Debug\net7.0\refint\CentraLogicWeek02.dll
+C:\Users\ompan\source\repos\CentraLogicWeek02\obj\Debug\net7.0\CentraLogicWeek02.pdb
+C:\Users\ompan\source\repos\CentraLogicWeek02\obj\Debug\net7.0\CentraLogicWeek02.genruntimeconfig.cache
+C:\Users\ompan\source\repos\CentraLogicWeek02\obj\Debug\net7.0\ref\CentraLogicWeek02.dll
