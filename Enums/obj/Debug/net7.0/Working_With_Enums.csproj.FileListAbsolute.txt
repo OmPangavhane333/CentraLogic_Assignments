@@ -1,0 +1,15 @@
+C:\Users\ompan\source\repos\Working_With_Enums\obj\Debug\net7.0\Working_With_Enums.csproj.AssemblyReference.cache
+C:\Users\ompan\source\repos\Working_With_Enums\obj\Debug\net7.0\Working_With_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ompan\source\repos\Working_With_Enums\obj\Debug\net7.0\Working_With_Enums.AssemblyInfoInputs.cache
+C:\Users\ompan\source\repos\Working_With_Enums\obj\Debug\net7.0\Working_With_Enums.AssemblyInfo.cs
+C:\Users\ompan\source\repos\Working_With_Enums\obj\Debug\net7.0\Working_With_Enums.csproj.CoreCompileInputs.cache
+C:\Users\ompan\source\repos\Working_With_Enums\bin\Debug\net7.0\Working_With_Enums.exe
+C:\Users\ompan\source\repos\Working_With_Enums\bin\Debug\net7.0\Working_With_Enums.deps.json
+C:\Users\ompan\source\repos\Working_With_Enums\bin\Debug\net7.0\Working_With_Enums.runtimeconfig.json
+C:\Users\ompan\source\repos\Working_With_Enums\bin\Debug\net7.0\Working_With_Enums.dll
+C:\Users\ompan\source\repos\Working_With_Enums\bin\Debug\net7.0\Working_With_Enums.pdb
+C:\Users\ompan\source\repos\Working_With_Enums\obj\Debug\net7.0\Working_With_Enums.dll
+C:\Users\ompan\source\repos\Working_With_Enums\obj\Debug\net7.0\refint\Working_With_Enums.dll
+C:\Users\ompan\source\repos\Working_With_Enums\obj\Debug\net7.0\Working_With_Enums.pdb
+C:\Users\ompan\source\repos\Working_With_Enums\obj\Debug\net7.0\Working_With_Enums.genruntimeconfig.cache
+C:\Users\ompan\source\repos\Working_With_Enums\obj\Debug\net7.0\ref\Working_With_Enums.dll
