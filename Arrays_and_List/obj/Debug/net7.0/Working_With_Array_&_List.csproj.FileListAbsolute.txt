@@ -1,0 +1,15 @@
+C:\Users\ompan\source\repos\Working_With_Array_&_List\bin\Debug\net7.0\Working_With_Array_&_List.exe
+C:\Users\ompan\source\repos\Working_With_Array_&_List\bin\Debug\net7.0\Working_With_Array_&_List.deps.json
+C:\Users\ompan\source\repos\Working_With_Array_&_List\bin\Debug\net7.0\Working_With_Array_&_List.runtimeconfig.json
+C:\Users\ompan\source\repos\Working_With_Array_&_List\bin\Debug\net7.0\Working_With_Array_&_List.dll
+C:\Users\ompan\source\repos\Working_With_Array_&_List\bin\Debug\net7.0\Working_With_Array_&_List.pdb
+C:\Users\ompan\source\repos\Working_With_Array_&_List\obj\Debug\net7.0\Working_With_Array_&_List.csproj.AssemblyReference.cache
+C:\Users\ompan\source\repos\Working_With_Array_&_List\obj\Debug\net7.0\Working_With_Array_&_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ompan\source\repos\Working_With_Array_&_List\obj\Debug\net7.0\Working_With_Array_&_List.AssemblyInfoInputs.cache
+C:\Users\ompan\source\repos\Working_With_Array_&_List\obj\Debug\net7.0\Working_With_Array_&_List.AssemblyInfo.cs
+C:\Users\ompan\source\repos\Working_With_Array_&_List\obj\Debug\net7.0\Working_With_Array_&_List.csproj.CoreCompileInputs.cache
+C:\Users\ompan\source\repos\Working_With_Array_&_List\obj\Debug\net7.0\Working_With_Array_&_List.dll
+C:\Users\ompan\source\repos\Working_With_Array_&_List\obj\Debug\net7.0\refint\Working_With_Array_&_List.dll
+C:\Users\ompan\source\repos\Working_With_Array_&_List\obj\Debug\net7.0\Working_With_Array_&_List.pdb
+C:\Users\ompan\source\repos\Working_With_Array_&_List\obj\Debug\net7.0\Working_With_Array_&_List.genruntimeconfig.cache
+C:\Users\ompan\source\repos\Working_With_Array_&_List\obj\Debug\net7.0\ref\Working_With_Array_&_List.dll
