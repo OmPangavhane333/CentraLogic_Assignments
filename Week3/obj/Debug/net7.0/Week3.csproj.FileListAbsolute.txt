@@ -1,0 +1,15 @@
+C:\Users\ompan\source\repos\Week3\bin\Debug\net7.0\Week3.exe
+C:\Users\ompan\source\repos\Week3\bin\Debug\net7.0\Week3.deps.json
+C:\Users\ompan\source\repos\Week3\bin\Debug\net7.0\Week3.runtimeconfig.json
+C:\Users\ompan\source\repos\Week3\bin\Debug\net7.0\Week3.dll
+C:\Users\ompan\source\repos\Week3\bin\Debug\net7.0\Week3.pdb
+C:\Users\ompan\source\repos\Week3\obj\Debug\net7.0\Week3.csproj.AssemblyReference.cache
+C:\Users\ompan\source\repos\Week3\obj\Debug\net7.0\Week3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ompan\source\repos\Week3\obj\Debug\net7.0\Week3.AssemblyInfoInputs.cache
+C:\Users\ompan\source\repos\Week3\obj\Debug\net7.0\Week3.AssemblyInfo.cs
+C:\Users\ompan\source\repos\Week3\obj\Debug\net7.0\Week3.csproj.CoreCompileInputs.cache
+C:\Users\ompan\source\repos\Week3\obj\Debug\net7.0\Week3.dll
+C:\Users\ompan\source\repos\Week3\obj\Debug\net7.0\refint\Week3.dll
+C:\Users\ompan\source\repos\Week3\obj\Debug\net7.0\Week3.pdb
+C:\Users\ompan\source\repos\Week3\obj\Debug\net7.0\Week3.genruntimeconfig.cache
+C:\Users\ompan\source\repos\Week3\obj\Debug\net7.0\ref\Week3.dll
