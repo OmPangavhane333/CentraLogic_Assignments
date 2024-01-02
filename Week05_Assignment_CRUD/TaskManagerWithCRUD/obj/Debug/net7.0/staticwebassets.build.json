@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t6gO+pw4H74A6yKIxqnsKi7vPfGYFJuVwcN4kNXfLYQ=",
+  "Source": "TaskManagerWithCRUD",
+  "BasePath": "_content/TaskManagerWithCRUD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
